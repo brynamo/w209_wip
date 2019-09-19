@@ -1,10 +1,10 @@
 day,time,duration,zoomies
 Monday,AM,45,3
-Monday,12,15,3
-Monday,PM,45,3
+Monday,12,20,3
+Monday,PM,60,3
 Tuesday,AM,30,3
 Tuesday,12,0,5
-Tuesday,PM,75,3
+Tuesday,PM,90,3
 Wednesday,AM,45,3
 Wednesday,12,15,3
 Wednesday,PM,60,3
@@ -13,10 +13,10 @@ Thursday,12,30,3
 Thursday,PM,15,3
 Friday,AM,30,3
 Friday,12,15,3
-Friday,PM,75,3
+Friday,PM,100,3
 Saturday,AM,30,3
-Saturday,12,75,3
+Saturday,12,210,3
 Saturday,PM,75,3
 Sunday,AM,75,3
-Sunday,12,75,3
+Sunday,12,120,3
 Sunday,PM,30,3
